@@ -1,0 +1,10 @@
+# Saída e cache do Jekyll (não precisa versionar)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependências locais (se você testar o lint na sua máquina)
+node_modules/
+
+# Sistema
+.DS_Store
