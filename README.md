@@ -8,8 +8,6 @@
 Catálogo colaborativo da turma: o que a gente queria saber no primeiro dia de faculdade.
 Cada dica é um "verbete" (um arquivo em `/verbetes`). Juntos, eles formam este guia.
 
-Instituição: **PREENCHA AQUI** · Campus: Sede / Ipolon I / Ipolon II
-
 ## Como este repositório funciona
 
 Este é o repositório-base, publicado pelo professor. Cada grupo trabalha em um **fork** dele — veja
